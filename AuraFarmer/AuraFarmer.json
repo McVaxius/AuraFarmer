@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
+  "Author": "DhogGPT",
+  "Name": "Aura Farmer",
+  "Punchline": "Cross-client commendation and Astrope farming scaffold.",
+  "Description": "Cross-client commendation and Astrope farming scaffold.",
+  "InternalName": "AuraFarmer",
+  "AssemblyVersion": "0.0.0.1",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 14,
+  "Tags": [
+    "ffxiv",
+    "aurafarmer",
+    "dhog"
+  ],
+  "CategoryTags": [
+    "utility"
+  ]
+}
